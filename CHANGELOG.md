@@ -1,4 +1,4 @@
-Add fold# Changelog
+# Changelog
 **Author: Kyler Jackson**
 
 All notable changes to this project will be documented in this file.
